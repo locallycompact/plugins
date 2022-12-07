@@ -60,6 +60,7 @@ library
                           array,
                           directory,
                           filepath,
+                          haskell-src,
                           random,
                           process,
                           split,
